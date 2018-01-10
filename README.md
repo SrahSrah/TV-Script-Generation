@@ -4,11 +4,11 @@ Utilize TensorFlow and scripts from the Simpson's to create a recurrent neural n
 ## The Data
 The data was made up of Simpon's scenes occuring exclusively in Mo's Tavern. Below is some data.
 
-#####Dataset sample:
+##### Dataset sample:
 
 ![alt text](https://github.com/SrahSrah/TV-Script-Generation/blob/master/tv-script%20dataset.png)
 
-#####Results:
+##### Results:
 
 ![alt text](https://github.com/SrahSrah/TV-Script-Generation/blob/master/tv-script%20results.png)
 
